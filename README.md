@@ -29,7 +29,8 @@ NothingWrong - это социальная сеть, который позвол
 
 #### Авторизация пользователя:
 
-![Authorization](https://github.com/paulzharkov/nothingWrong/blob/main/client/src/assets/screenshots/registration.png 'Авторизация')
+![Authorization](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/registration.png 'Авторизация')
+![Entry](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/entry.png 'Вход')
 
 #### Список всех постов (доступны после авторизации)
 
