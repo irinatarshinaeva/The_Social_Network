@@ -32,14 +32,28 @@ NothingWrong - это социальная сеть, который позвол
 ![Authorization](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/registration.png 'Авторизация')
 ![Entry](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/entry.png 'Вход')
 
-#### Список всех постов (доступны после авторизации)
+#### Доступные вкладки:
 
-![Wrongs](https://github.com/paulzharkov/nothingWrong/blob/main/client/src/assets/screenshots/wrongs.png 'Посты')
+![Header](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/header.png 'Хэдер')
 
-#### Приватный чат между двумя пользователями, реализован на WebSocket.
+#### Списки друзей и пользователей ресурса:
 
-![Chat1](https://github.com/paulzharkov/nothingWrong/blob/main/client/src/assets/screenshots/chat1.png 'Чат 1')
-![Chat2](https://github.com/paulzharkov/nothingWrong/blob/main/client/src/assets/screenshots/chat2.png 'Чат 2')
+![People](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/people.png 'Подписчики')
+![Followers](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/followers.png 'Люди')
+
+#### Списки постов адресованные мне и наоборот:
+
+![Posts](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/posts.png 'Посты')
+
+#### Форма создания поста:
+
+![Form](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/form.png 'Форма')
+
+#### Списки друзей и пользователей ресурса:
+
+![Notification](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/notification.png 'Оповещение')
+![Chat](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/chat.png 'Чат')
+
 
 ### Краткое описание функционала системы:
 
