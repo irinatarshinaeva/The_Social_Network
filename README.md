@@ -49,7 +49,7 @@ NothingWrong - это социальная сеть, который позвол
 
 ![Form](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/form.png 'Форма')
 
-#### Списки друзей и пользователей ресурса:
+#### Чат между пользователями в реальном времени:
 
 ![Notification](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/notification.png 'Оповещение')
 ![Chat](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/chat.png 'Чат')
