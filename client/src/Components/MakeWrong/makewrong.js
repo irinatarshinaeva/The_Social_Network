@@ -108,7 +108,7 @@ function Makewrong() {
           className={classes.selectEmpty}
         >
           <MenuItem value="" disabled>
-            Выберите категорию:
+            Выберите категорию из списка:
           </MenuItem>
           <MenuItem value="Финансовая">Финансовая</MenuItem>
           <MenuItem value="Невыполненные обещания">
@@ -168,7 +168,7 @@ function Makewrong() {
           className={classes.selectEmpty}
         >
           <MenuItem value="" disabled>
-            Укажите человека:
+            Укажите человека из списка:
           </MenuItem>
           {usersList.length &&
             usersList.map((el) => (

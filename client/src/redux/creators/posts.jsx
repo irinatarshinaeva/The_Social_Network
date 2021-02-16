@@ -116,7 +116,7 @@ export const createPostThunk = ({ category,
       const { socket } = getState()
       if (Object.keys(socket).length) {
         socket.emit('wrong notification', {
-          title: 'Вам обидка!',
+          title: 'Оповещение! Перейти в чат?',
           wrongID: data.newPost._id,
           offender: data.newPost.offenderId,
           offenderSocketID: data.offenderSocketID

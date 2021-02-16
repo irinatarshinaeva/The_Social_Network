@@ -75,13 +75,13 @@ function Chat() {
         offenderSocketID: socket.id,
       });
       socket.emit('stop machine 2', {
-        title: `Юзер ${user} хочет завершить диалог. Вы решили конфликт?`,
+        title: `${user} хочет завершить диалог. Вы решили конфликт?`,
         wrongID: id,
         offenderSocketID: socket.id,
       });
     } else {
       socket.emit('stop machine', {
-        title: `Юзер ${user} хочет завершить диалог. Вы решили конфликт?`,
+        title: `${user} хочет завершить диалог. Вы решили конфликт?`,
         wrongID: id,
         offenderSocketID: socket.id,
       });
