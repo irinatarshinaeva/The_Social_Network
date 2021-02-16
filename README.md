@@ -44,6 +44,7 @@ NothingWrong - это социальная сеть, который позвол
 #### Списки постов адресованные мне и наоборот:
 
 ![Posts](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/posts.png 'Посты')
+![Comments](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/comments.png 'Комментарии')
 
 #### Форма создания поста:
 
@@ -53,6 +54,10 @@ NothingWrong - это социальная сеть, который позвол
 
 ![Notification](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/notification.png 'Оповещение')
 ![Chat](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/chat.png 'Чат')
+
+#### Что почитать на досуге:
+
+![Advice](https://github.com/irinatarshinaeva/The_Social_Network/blob/main/client/src/assets/screenshots/advice.png 'Советы')
 
 
 ### Краткое описание функционала системы:
